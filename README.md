@@ -33,3 +33,7 @@ Enseignant-Chercheur | Développeur Open Source
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### Déploiement & Cloud
+![GitHub Pages](https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![OVH](https://img.shields.io/badge/ovh-%230050D7.svg?style=for-the-badge&logo=ovh&logoColor=white)
