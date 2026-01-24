@@ -4,7 +4,7 @@ Enseignant-Chercheur | Développeur Open Source
 
 - 🏛️ Je travaille actuellement à [University of Carthage](https://ucar.rnu.tn/)
 - 📚 Mes supports de cours et TD sont disponibles sur mon site personnel.
-- 💼 [Consulter mon CV complet et mes projets pédagogiques](https://anis-saied.github.io)
+- 💼 [Consulter mon CV complet et mes projets pédagogiques](https://anis-saied.com)
 
 ---
 
